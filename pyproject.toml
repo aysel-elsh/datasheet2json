@@ -9,7 +9,7 @@ description = "Pull spec tables (absolute max ratings, electrical characteristic
 readme = "README.md"
 license = "MIT"
 authors = [{ name = "Aysel Elshenawy" }]
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 dependencies = ["pdfplumber>=0.10"]
 keywords = ["datasheet", "pdf", "electronics", "components", "table-extraction", "bom", "electrical-engineering"]
 
